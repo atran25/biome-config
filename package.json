@@ -1,0 +1,30 @@
+{
+  "name": "@atran25/biome-config",
+  "version": "1.0.0",
+  "description": "Shared Biome config for my projects",
+  "keywords": [
+    "biome",
+    "biomejs",
+    "config"
+  ],
+  "license": "MIT",
+  "author": "Anthony Tran",
+  "type": "module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atran25/biome-config.git"
+  },
+  "exports": {
+    "./biome": "./biome.json"
+  },
+  "peerDependencies": {
+    "@biomejs/biome": "^2.4.16"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
