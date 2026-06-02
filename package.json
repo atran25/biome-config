@@ -10,7 +10,9 @@
   "license": "MIT",
   "author": "Anthony Tran",
   "type": "module",
-  "main": "index.js",
+  "files": [
+    "biome.json"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/atran25/biome-config.git"
