@@ -1,0 +1,3 @@
+display_name: Publish npm Version
+short_description: Release a new npm package version from Git tags or trusted publishing.
+default_prompt: Help me publish a new npm package version safely.
